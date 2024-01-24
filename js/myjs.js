@@ -1,1 +1,3 @@
-ccc=123;
+success({
+    result: "im result"
+})
